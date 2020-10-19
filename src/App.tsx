@@ -15,12 +15,9 @@ export const List = styled.div`
 function App() {
   return (
     <div className="App">
-
     <List>
-
       <Ripple color="#00e66e" />
     </List>
-
     </div>
   );
 }
